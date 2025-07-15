@@ -29,7 +29,7 @@ A complete machine learning workflow to predict passenger survival on the Titani
 
 I experimented with various hyperparameters and models, and also tried different approaches to feature engineering. 
 In the end, I kept only the process that led me to the best model I was able to build. 
-Further in-depth exploration and experimentation will certainly lead to even better results.All detailed code and analysis can be found 
+Further in-depth exploration and experimentation will certainly lead to even better results. All detailed code and analysis can be found 
 in the accompanying notebook.
 
 ---
